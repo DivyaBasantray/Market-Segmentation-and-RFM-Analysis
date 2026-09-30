@@ -207,3 +207,19 @@ The raw transaction data was cleaned and transformed into a customer-level RFM d
 
 **Dataset Source:**  
 [UCI Machine Learning Repository - Online Retail II](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
+---
+
+## 7. Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](dashboard/Executive%20Overview.png)
+
+### RFM Customer Segmentation
+
+![RFM Customer Segmentation](dashboard/RFM%20Customer%20Segmentation.png)
+
+### Customer & Revenue Insights
+
+![Customer & Revenue Insights](dashboard/Customer%20%26%20Revenue%20Insights.png)
